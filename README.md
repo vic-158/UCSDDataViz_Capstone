@@ -14,8 +14,6 @@ Team Left Shark
 
 The internet is full of information, much of it true but just as much fake. Fake news seems to proliferate headlines and is a buzzword for the modern era and to assist people in determining whether a news article is actually real or fake. We propose utilizing our machine learning create a Fake News Finder application whereby a person can determine whether a news article is fake. We will do this in the following ways:
 
-Sources
-
 ## Datascrape the a combination of following sources:
 
 1. Subreddit r/Onion for fake news
