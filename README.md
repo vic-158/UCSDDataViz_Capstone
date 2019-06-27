@@ -29,14 +29,14 @@ Sources
 
 These will be aggregated into csv or json files for our model to reference. Next we will train our model using libararies including the following:
 
-Numpy
-Pandas
-SKLearn
-Seaborn
-BeautifulSoup
-Matplotlib
-PushiftAPI
-AWS - Load data into DynamoDB and spin up APIs
+* Numpy
+* Pandas
+* SKLearn
+* Seaborn
+* BeautifulSoup
+* Matplotlib
+* PushiftAPI ?
+* AWS - Load data into DynamoDB and spin up APIs
 
 ## Methodology:
 The app will classify articles as fake or real based on headline content and we will include a confusion matrix to demonstrate eror in our results. We will also do a short analysis of most common aspects of fake news including keywords associated with satirical or genuine news.
